@@ -1,9 +1,4 @@
-body{
-margin: 0;
-padding: 0;
 
-    background-color: deeppink;
-}
 cabecalho {
     background-color: #424E61;
     color: white;
@@ -11,6 +6,7 @@ cabecalho {
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+
 }.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
